@@ -104,7 +104,7 @@ os.chdir(script_dir)
 git_steps = [
     (["git", "add", "."],                             "Staging changes"),
     (["git", "commit", "-m", commit_message],         "Committing"),
-    (["git", "push", "origin", "main"],               "Pushing to GitHub"),
+    (["git", "push","-u", "origin", "main", "--force"],               "Pushing to GitHub"),
 ]
 
 all_passed = True
