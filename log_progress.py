@@ -237,7 +237,7 @@ os.chdir(base_dir)
 steps = [
     ["git", "add", "."],
     ["git", "commit", "-m", commit_msg],
-    ["git", "push", "origin", "main"],
+    ["git", "push", "-u", "origin", "main", "--force"],
 ]
 
 all_ok = True
