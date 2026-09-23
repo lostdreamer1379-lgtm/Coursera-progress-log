@@ -13,3 +13,18 @@
 
 > previous question practice
 
+
+---
+
+### 💻 September 23, 2026 (Wednesday)
+
+| Field         | Details                          |
+|---------------|----------------------------------|
+| **Domain**    | DSA (Data Structures & Algorithms)               |
+| **Topic**     | Algomaster practice                          |
+| **Logged at** | 2026-09-23 19:29                      |
+
+**📝 What I learned / completed today:**
+
+> Linked list practice
+
